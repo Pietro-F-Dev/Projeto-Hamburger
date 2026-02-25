@@ -1,6 +1,6 @@
 <h1>Esse foi um projeto feito para aplicar melhor meu conhecimento com JavaScript, CSS, e HTML</h1>
 <br>
-<h2> Fique a vontade para testar o site clicando aqui: <a href = https://pietrominto.github.io/Projeto-Hamburger/>PROJETO</a></h2>
+<h2> Fique a vontade para testar o site clicando aqui: <a href = https://pietro-f-dev.github.io/Projeto-Hamburger/>PROJETO</a></h2>
 <br>
 <h3>As Tecnologias usadas foram:</h3>
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
